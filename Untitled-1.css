@@ -1,0 +1,38 @@
+
+*{
+    font-family: Arial , helvetica, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.form{
+  background-color: rgb(233, 227, 255);
+  text-align: center;
+  padding: 2px 5px;
+  
+}
+
+.insert{
+    font: sans-serif,bold;
+    width: 130px;
+
+}
+
+title{
+    text-align: center;
+    font: bold
+}
+
+body{
+    background-color: rgb(230, 224, 253)
+}
+.box{
+    background-color: rgb(37, 89, 134);
+    text-align: center;
+    position :relative;
+    margin-top: 50%;
+    margin-left: 50%;
+
+}
+
